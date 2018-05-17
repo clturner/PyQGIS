@@ -1,4 +1,4 @@
-#!/env/bin/python
+#!/env/bin/env python
 
 """
 Counts the number of points in a points layer that fall within every feature 

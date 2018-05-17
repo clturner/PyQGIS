@@ -1,4 +1,4 @@
-#!/env/bin/python
+#!/env/bin/env python
 
 """
 Calculates the percent cover of every feature in an input layer by every feature in an overlap layer.
